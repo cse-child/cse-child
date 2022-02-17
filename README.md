@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cse-child
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Computer Science and Engineering Child.
+- 👀 I’m interested in Client Programmer.
+- 🌱 I’m currently learning C++.(Unity, Unreal..)
+- 💞️ I’m looking to collaborate on Study mate.
+- 📫 How to reach me ...No
 
 <!---
 cse-child/cse-child is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
